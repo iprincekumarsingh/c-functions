@@ -1,7 +1,7 @@
 // Sort Array Using Bubble Sort in C or any language
 
 #include <stdio.h>
-int ascSort(int arr[10])
+int ascSort(int arr[])
 {
     for (int i = 0; i < 10 - 1; i++)
     {
