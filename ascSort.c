@@ -1,5 +1,5 @@
 // Sort Array Using Bubble Sort in C or any language
-
+//  USING BUBBLE SORT ALGORITHM TO SORT THE ARRAY IN THE ASCENDING ORDER
 #include <stdio.h>
 int ascSort(int arr[])
 {
