@@ -1,6 +1,17 @@
-#to use this file
-include "filename.h"
 
-#to call the function in your main function
+# C lang usefull functions
 
-ascSort(arrayname);
+
+
+## To use the functions in your main function
+```bash
+    #include "filename.extension"
+```
+## Implementation
+
+Calling the fucntion 
+
+```bash
+  functionName(arrayName);
+```
+
